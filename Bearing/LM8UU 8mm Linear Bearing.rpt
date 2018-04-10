@@ -1,0 +1,73 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : LM8UU 8mm Linear Bearing
+Receiving System Product I.D.: LM8UU 8mm Linear Bearing
+File Name                    : No Iges File Name specified
+Sending System               : Autodesk Inventor 2012
+Preprocessor Version         : AutoDesk Inventor Iges Exporter R2012
+File Creation Date           : 20120401.153832
+Model Creation Date          : 
+Units                        : IN
+Model Space Scale            : 1
+Author                       : User
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                8.21951
+  Maximum distance to origin:                          1.95119
+  Minimum distance to origin:                      0.000504585
+  Effective number of significant digits:              13.9998
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             34        34
+110  Line                                            10        10
+116  Point                                           29        29
+120  Surface of revolution                            5         5
+123  Direction                                       58        58
+124  Transformation matrix                           30        30
+186  Manifold Solid B-rep Object                      1         1
+190  Plane surface entity                            10        10
+192  Right circular cylindrical surface               7         7
+194  Right circular conical surface                  12        12
+314  Color definition                                 1         1
+406  Property                                         1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                     68        68
+510  Face entity                                     34        34
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, February 27, 2018 19:49:22
+Finish time: Tuesday, February 27, 2018 19:49:25
+Processing time: 0 days, 00 hours, 00 mins, 03 secs
